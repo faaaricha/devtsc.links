@@ -11,18 +11,18 @@ last_name:
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😄
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Komunitas berbasis jejaring
+role: Komunitas Berbasis Jejaring
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Indonesia
-    url: 
+    # url: 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
